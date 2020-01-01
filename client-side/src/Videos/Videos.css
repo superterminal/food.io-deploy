@@ -1,0 +1,9 @@
+.videos {
+    background-image: url("background.jpg"); ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    position: relative;
+    padding-bottom: 15em;
+    /* padding-bottom: 15em; */
+}
